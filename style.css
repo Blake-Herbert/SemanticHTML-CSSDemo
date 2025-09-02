@@ -53,6 +53,11 @@ main {
     margin: 0 .5rem 0 .5rem;
 }
 
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
 h2 {
     width: fit-content;
     text-decoration: underline;
